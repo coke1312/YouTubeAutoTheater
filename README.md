@@ -18,7 +18,7 @@ YouTubeAutoTheater is a simple Chrome extension that automatically activates The
 
 4. Click "Load unpacked" and select the folder where you downloaded the extension.
 
-# The extension should now be active and automatically enable Theater Mode on YouTube.
+5. The extension should now be active and automatically enable Theater Mode on YouTube.
 
 ## Usage
 Once the extension is installed, simply navigate to any YouTube video. Theater Mode will automatically be enabled whenever a video is played. No further configuration is needed.
